@@ -17,3 +17,5 @@
 ## Report
 ![image](https://user-images.githubusercontent.com/62555809/137272194-93f205d3-95fd-4535-96db-dfaff6dbfd18.png) ![image](https://user-images.githubusercontent.com/62555809/137272220-338622a1-5c6e-4413-a0ec-b5a62b57ee9f.png)
 
+## Insights / Visualization
+![bar2](https://user-images.githubusercontent.com/62555809/137272812-92d33c0e-001b-443d-b29d-af83d8e32659.png) ![bar](https://user-images.githubusercontent.com/62555809/137272820-346c679c-a3c8-480e-a3c6-cd1e273b42ca.png)
